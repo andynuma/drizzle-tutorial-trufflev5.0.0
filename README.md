@@ -1,4 +1,4 @@
-# drizzle-tutorial
+# drizzle-tutorial-truffle-v5.0.0
 https://truffleframework.com/tutorials/getting-started-with-drizzle-and-react 
 - truffle v5.0.0
 - solidity v0.5.0
@@ -10,4 +10,3 @@ https://truffleframework.com/tutorials/getting-started-with-drizzle-and-react
 #### 関数の引数はmemoryに
  - `function set(string) public{}`ではなく`function set(memory string) public{}`
 
-# drizzle-tutorial-truffle-v5.0.0
