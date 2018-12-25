@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # drizzle-tutorial
 https://truffleframework.com/tutorials/getting-started-with-drizzle-and-react 
 - truffle v5.0.0
@@ -10,6 +9,5 @@ https://truffleframework.com/tutorials/getting-started-with-drizzle-and-react
  - `pragama solidity ^0.4.24;`ではなく`pragma solidity >0.4.99 <0.6.0;`
 #### 関数の引数はmemoryに
  - `function set(string) public{}`ではなく`function set(memory string) public{}`
-=======
+
 # drizzle-tutorial-truffle-v5.0.0
->>>>>>> origin/master
