@@ -8,6 +8,7 @@ class ReadString extends React.Component {
     // const { drizzle, drizzleState } = this.props;
     // console.log(drizzle);
     // console.log(drizzleState);
+    //test
     const {drizzle} = this.props;
     const contract =  drizzle.contracts.MyStringStore;
 

@@ -26,7 +26,7 @@ class SetString extends React.Component{
         //  get the transaction states from the drizzle state
         const { transactions, transactionStack }  = this.props.drizzleState;
 
-        //  et the transaction hash using our saved "stackId"
+        //  set the transaction hash using our saved "stackId"
         const txHash = transactionStack[this.state.stackId];
 
         // if transaction hash does not exist, don't display  anything
